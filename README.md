@@ -5,23 +5,23 @@ Sou estudante de **Sistemas de Informação** com grande interesse em transforma
 ---
 
 ### 🚀 Sobre Mim
-* [cite_start]🎓 Cursando **Sistemas de Informação** na Universidade Veiga de Almeida (UVA).
-* [cite_start]💻 Focada em **Desenvolvimento de Software** e **Cybersecurity**[cite: 6].
-* [cite_start]🧠 Gosto de resolver problemas complexos e aprender novas tecnologias constantemente[cite: 21, 23].
+* 🎓 Cursando **Sistemas de Informação** na Universidade Veiga de Almeida (UVA).
+* 💻 Focada em **Desenvolvimento de Software** e **Cybersecurity**[cite: 6].
+* 🧠 Gosto de resolver problemas complexos e aprender novas tecnologias constantemente[cite: 21, 23].
 
 ---
 
 ### 🛠️ Competências Técnicas
-* [cite_start]**Linguagens:** Python, C#, HTML5, CSS e SQL[cite: 8].
-* [cite_start]**Banco de Dados:** MySQL[cite: 9].
-* [cite_start]**Ferramentas:** Pacote Office[cite: 9].
+* **Linguagens:** Python, C#, HTML5, CSS e SQL[cite: 8].
+* **Banco de Dados:** MySQL[cite: 9].
+* **Ferramentas:** Pacote Office[cite: 9].
 
 ---
 
 ### 📚 Formação Acadêmica & Cursos
-* [cite_start]**Graduação em Sistemas de Informação** – UVA (Início em 01/2024).
-* [cite_start]**Linguagem de Programação Python (Básico)** – Fundação Bradesco (2024)[cite: 16, 19].
-* [cite_start]**Analista de Recursos Humanos** – Prepara Cursos / ITB (160h)[cite: 14, 15].
+* **Graduação em Sistemas de Informação** – UVA (Início em 01/2024).
+* **Linguagem de Programação Python (Básico)** – Fundação Bradesco (2024)[cite: 16, 19].
+* **Analista de Recursos Humanos** – Prepara Cursos / ITB (160h)[cite: 14, 15].
 
 ---
 
