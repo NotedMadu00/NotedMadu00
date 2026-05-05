@@ -1,6 +1,6 @@
 # Olá, eu sou a Maria Eduarda! 👋
 
-[cite_start]Sou estudante de **Sistemas de Informação**  [cite_start]com grande interesse em transformar lógica em código e explorar o universo da **Segurança da Informação**[cite: 6]. [cite_start]Atualmente, busco minha primeira oportunidade como estagiária ou em posições iniciais na área de TI[cite: 5].
+Sou estudante de **Sistemas de Informação** com grande interesse em transformar lógica em código e explorar o universo da **Segurança da Informação**. Atualmente, busco minha primeira oportunidade como estagiária ou em posições iniciais na área de TI.
 
 ---
 
