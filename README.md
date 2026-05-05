@@ -6,32 +6,32 @@ Sou estudante de **Sistemas de Informação** com grande interesse em transforma
 
 ### 🚀 Sobre Mim
 * 🎓 Cursando **Sistemas de Informação** na Universidade Veiga de Almeida (UVA).
-* 💻 Focada em **Desenvolvimento de Software** e **Cybersecurity**[cite: 6].
-* 🧠 Gosto de resolver problemas complexos e aprender novas tecnologias constantemente[cite: 21, 23].
+* 💻 Focada em **Desenvolvimento de Software** e **Cybersecurity**.
+* 🧠 Gosto de resolver problemas complexos e aprender novas tecnologias constantemente.
 
 ---
 
 ### 🛠️ Competências Técnicas
-* **Linguagens:** Python, C#, HTML5, CSS e SQL[cite: 8].
-* **Banco de Dados:** MySQL[cite: 9].
-* **Ferramentas:** Pacote Office[cite: 9].
+* **Linguagens:** Python, C#, HTML5, CSS e SQL.
+* **Banco de Dados:** MySQL.
+* **Ferramentas:** Pacote Office.
 
 ---
 
 ### 📚 Formação Acadêmica & Cursos
 * **Graduação em Sistemas de Informação** – UVA (Início em 01/2024).
-* **Linguagem de Programação Python (Básico)** – Fundação Bradesco (2024)[cite: 16, 19].
-* **Analista de Recursos Humanos** – Prepara Cursos / ITB (160h)[cite: 14, 15].
+* **Linguagem de Programação Python (Básico)** – Fundação Bradesco (2024).
+* **Analista de Recursos Humanos** – Prepara Cursos / ITB (160h).
 
 ---
 
 ### 🤝 Soft Skills
-* [cite_start]**Comunicação Técnica:** Habilidade em traduzir soluções complexas para diferentes públicos[cite: 22].
-* [cite_start]**Resolução de Problemas:** Foco em depuração de código e implementação de soluções eficazes[cite: 21].
-* [cite_start]**Proatividade:** Busca constante por novos frameworks e tendências do mercado[cite: 23].
+* **Comunicação Técnica:** Habilidade em traduzir soluções complexas para diferentes públicos.
+* **Resolução de Problemas:** Foco em depuração de código e implementação de soluções eficazes.
+* **Proatividade:** Busca constante por novos frameworks e tendências do mercado.
 
 ---
 
 ### ✉️ Contato
-* [cite_start]**E-mail:** [mariaeduardabarros93@gmail.com](mailto:mariaeduardabarros93@gmail.com) [cite: 4]
-* [cite_start]**Telefone:** (21) 96601-5050 [cite: 3]
+* **E-mail:** [mariaeduardabarros93@gmail.com](mailto:mariaeduardabarros93@gmail.com)
+* **Telefone:** (21) 96601-5050
